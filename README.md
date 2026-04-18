@@ -26,7 +26,7 @@ Python 3.10+ is recommended.
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-pip install numpy pandas scikit-learn joblib xgboost lightgbm catboost torch pytest
+pip install -r requirements.txt
 ```
 
 Notes:
@@ -75,7 +75,8 @@ Notes:
 
 ### 3.6 Segmentation Feature Processing
 
-- Segmentation excludes direct usage of supervised outputs.
+- V1 segmentation excludes supervised outputs entirely.
+- V2 segmentation reuses the V1 feature space and adds a model-derived income propensity score as an auxiliary feature.
 - Engineered fields include:
   - numeric: age, weeks worked, veterans benefits, etc.
   - bands: `age_band`, `weeks_worked_band`
@@ -207,15 +208,19 @@ Outputs:
 ```bash
 python -m segment.run_classifier_informed \
   --project-root . \
-  --output-dir segment/v2_from_ft_score \
+  --output-dir segment/v2_from_model_score \
   --seed 42
 ```
 
 Outputs:
-- `segment/v2_from_ft_score/segment_assignments.csv`
-- `segment/v2_from_ft_score/segment_profiles.csv`
-- `segment/v2_from_ft_score/segment_diagnostics.json`
-- `segment/v2_from_ft_score/segment_marketing_actions.md`
+- `segment/v2_from_model_score/segment_assignments.csv`
+- `segment/v2_from_model_score/segment_profiles.csv`
+- `segment/v2_from_model_score/segment_diagnostics.json`
+- `segment/v2_from_model_score/segment_marketing_actions.md`
+
+Note:
+- The checked-in artifact snapshot in this repository still lives under `segment/v2_from_ft_score/` for historical naming reasons.
+- In the final report, V2 is treated generically as a classifier-informed segmentation that adds a model-derived propensity score as an auxiliary feature.
 
 ### 4.9 Generate Report Figures
 
@@ -268,6 +273,8 @@ Each prediction output includes:
 - Segmentation:
   - `segment/results/segment_profiles.csv`
   - `segment/results/segment_diagnostics.json`
+  - `segment/v2_from_ft_score/segment_profiles.csv`
+  - `segment/v2_from_ft_score/segment_diagnostics.json`
 
 ## 6. Final Results (Current Artifacts)
 
@@ -297,16 +304,23 @@ Threshold summaries:
 
 ### 6.2 Segmentation
 
-From `segment/results/segment_diagnostics.json`:
+From `segment/results/segment_diagnostics.json` (base artifact snapshot):
 - selected number of clusters: `6`
 - silhouette: `0.3839`
 - Davies-Bouldin: `1.0828`
 - Calinski-Harabasz: `5195.896`
 - stability pairwise agreement: `0.8836`
 
+Final report note:
+- The checked-in `segment/results/` directory is one baseline segmentation artifact snapshot.
+- The final report compares the two reportable segmentation schemes instead: `V1 (k=5)` and classifier-informed `V2 (k=8)`.
+- `V1` is the preferred client-facing segmentation, while `V2` is retained as a downstream activation variant.
+
 Segment profiles and actionable recommendations are exported to:
 - `segment/results/segment_profiles.csv`
 - `segment/results/segment_marketing_actions.md`
+- `segment/v2_from_ft_score/segment_profiles.csv`
+- `segment/v2_from_ft_score/segment_marketing_actions.md`
 
 ## 7. Reproducibility Notes
 
