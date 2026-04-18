@@ -17,7 +17,7 @@ ploting_patch.md
 segment/seg_instruct.md
 segment/segment_patch.md
 **/*.md
-!README.md
+!/README.md
 
 *.swp
 *.swo
