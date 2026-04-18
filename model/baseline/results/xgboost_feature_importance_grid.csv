@@ -1,0 +1,407 @@
+feature,importance
+cat__tax filer stat_Nonfiler,0.06774417
+num__detailed occupation recode,0.025320653
+cat__sex_Female,0.025284745
+cat__detailed household summary in household_Householder,0.023376781
+num__weeks worked in year,0.017125249
+cat__sex_Male,0.013479665
+num__capital gains,0.012442066
+cat__detailed household summary in household_Child 18 or older,0.010620602
+cat__education_Prof school degree (MD DDS DVM LLB JD),0.008578424
+cat__major occupation code_Other service,0.0070243105
+num__dividends from stocks,0.0068749157
+cat__education_High school graduate,0.0067095547
+cat__major occupation code_Protective services,0.0064611714
+cat__marital stat_Never married,0.006087274
+cat__major industry code_Education,0.0060253534
+cat__tax filer stat_Joint both under 65,0.006016853
+cat__marital stat_Married-civilian spouse present,0.006016452
+num__capital losses,0.0058952435
+cat__education_Doctorate degree(PhD EdD),0.005822871
+cat__education_Masters degree(MA MS MEng MEd MSW MBA),0.0056133517
+cat__state of previous residence_Iowa,0.0052961293
+cat__major industry code_Retail trade,0.0052699517
+num__num persons worked for employer,0.0052513657
+cat__class of worker_Self-employed-incorporated,0.004962313
+cat__education_Bachelors degree(BA AB BS),0.0048619662
+cat__tax filer stat_Single,0.0047626873
+cat__education_Some college but no degree,0.0046430095
+cat__education_10th grade,0.0046067787
+cat__state of previous residence_Utah,0.004326021
+cat__country of birth mother_Trinadad&Tobago,0.004295572
+cat__hispanic origin_All other,0.004290862
+cat__detailed household and family stat_Child 18+ spouse of subfamily RP,0.0041032596
+cat__detailed household and family stat_Child 18+ never marr RP of subfamily,0.004048165
+cat__country of birth mother_South Korea,0.0040336736
+cat__migration code-move within reg_Different state in Midwest,0.0039724247
+cat__major industry code_Agriculture,0.003955474
+cat__state of previous residence_West Virginia,0.0039027424
+cat__state of previous residence_Louisiana,0.0038967247
+cat__state of previous residence_Wyoming,0.0038663377
+cat__major industry code_Forestry and fisheries,0.0038080486
+cat__hispanic origin_Cuban,0.0036877396
+cat__major industry code_Finance insurance and real estate,0.003678531
+cat__major industry code_Public administration,0.003627256
+num__wage per hour,0.0035898588
+cat__major occupation code_Precision production craft & repair,0.0035639696
+cat__detailed household and family stat_Spouse of householder,0.0035447609
+cat__reason for unemployment_Job leaver,0.0034720425
+cat__country of birth mother_India,0.0034580482
+cat__state of previous residence_Colorado,0.003438703
+cat__country of birth mother_Holand-Netherlands,0.0033912584
+cat__country of birth self_Scotland,0.0033696156
+cat__state of previous residence_Maine,0.003365179
+cat__class of worker_State government,0.0033641392
+cat__country of birth self_Hong Kong,0.0033630573
+cat__education_9th grade,0.003271117
+cat__country of birth mother_Philippines,0.0032358186
+cat__member of a labor union_Not in universe,0.0032347732
+cat__state of previous residence_District of Columbia,0.0032312428
+cat__state of previous residence_Idaho,0.0032201405
+num__age,0.0031878513
+cat__migration prev res in sunbelt_Yes,0.0031797048
+cat__migration code-move within reg_Different state in South,0.0031787222
+cat__region of previous residence_Midwest,0.003174327
+cat__country of birth father_Dominican-Republic,0.0031508307
+cat__hispanic origin_Mexican (Mexicano),0.003126759
+cat__detailed household and family stat_Other Rel 18+ spouse of subfamily RP,0.0031205895
+cat__state of previous residence_?,0.0031148863
+cat__major industry code_Social services,0.0031079582
+cat__detailed household summary in household_Spouse of householder,0.0030903863
+cat__detailed household and family stat_Spouse of RP of unrelated subfamily,0.0030880459
+cat__state of previous residence_New York,0.0030636345
+cat__major industry code_Mining,0.003046224
+cat__country of birth self_Canada,0.0030406278
+cat__country of birth mother_Canada,0.0030386287
+cat__education_7th and 8th grade,0.0030349412
+cat__country of birth self_Iran,0.0030121738
+cat__country of birth father_Cuba,0.0030112134
+cat__country of birth father_Holand-Netherlands,0.0029989728
+cat__country of birth father_Poland,0.0029898712
+cat__education_Associates degree-occup /vocational,0.0029858064
+cat__fill inc questionnaire for veteran's admin_Not in universe,0.0029676904
+cat__fill inc questionnaire for veteran's admin_Yes,0.0029608721
+cat__detailed household and family stat_Child 18+ ever marr Not in a subfamily,0.0029518243
+cat__state of previous residence_New Jersey,0.0029418103
+cat__state of previous residence_California,0.002937414
+cat__detailed household summary in household_Nonrelative of householder,0.0029349765
+cat__state of previous residence_Massachusetts,0.0029294724
+cat__full or part time employment stat_PT for econ reasons usually PT,0.0029273615
+cat__country of birth mother_Mexico,0.0029112902
+cat__reason for unemployment_Other job loser,0.002903312
+cat__country of birth self_Philippines,0.0028835344
+cat__country of birth father_Iran,0.0028724766
+cat__enroll in edu inst last wk_High school,0.0028403343
+cat__class of worker_Federal government,0.0028315189
+cat__race_Black,0.0028311186
+cat__country of birth self_United-States,0.002822839
+cat__tax filer stat_Head of household,0.0028160014
+num__own business or self employed,0.002791696
+cat__country of birth father_Greece,0.0027901982
+cat__migration code-change in msa_Not identifiable,0.0027862675
+cat__country of birth self_Poland,0.0027845358
+cat__country of birth self_Portugal,0.0027791886
+cat__region of previous residence_West,0.0027671217
+cat__major occupation code_Professional specialty,0.002757206
+cat__state of previous residence_Michigan,0.002753657
+cat__country of birth father_Portugal,0.002750768
+cat__detailed household and family stat_Householder,0.0027407818
+cat__state of previous residence_Alabama,0.0027320937
+cat__education_11th grade,0.002722041
+cat__major industry code_Utilities and sanitary services,0.0027180573
+cat__major industry code_Entertainment,0.0027116227
+cat__country of birth mother_England,0.0027096765
+cat__state of previous residence_New Mexico,0.0027095254
+cat__country of birth father_Peru,0.0026953588
+cat__detailed household and family stat_Grandchild 18+ never marr not in subfamily,0.0026899097
+cat__major occupation code_Handlers equip cleaners etc ,0.0026698469
+cat__country of birth mother_Iran,0.002641193
+cat__class of worker_Self-employed-not incorporated,0.0026283963
+cat__country of birth self_Ireland,0.0026189517
+cat__class of worker_Local government,0.0026056406
+cat__marital stat_Separated,0.002604955
+cat__country of birth self_Dominican-Republic,0.0025988729
+cat__full or part time employment stat_PT for non-econ reasons usually FT,0.0025931657
+cat__country of birth mother_Hungary,0.0025918253
+cat__country of birth mother_Scotland,0.0025751814
+cat__full or part time employment stat_Children or Armed Forces,0.0025748343
+cat__country of birth father_Philippines,0.0025687118
+cat__tax filer stat_Joint one under 65 & one 65+,0.0025615077
+cat__major occupation code_Transportation and material moving,0.0025540558
+cat__state of previous residence_Minnesota,0.0025521764
+cat__country of birth father_Hong Kong,0.0025452652
+cat__country of birth father_Ireland,0.0025272798
+cat__country of birth father_England,0.002524959
+cat__fill inc questionnaire for veteran's admin_No,0.0025241808
+cat__citizenship_Native- Born in the United States,0.0025179435
+cat__country of birth mother_Yugoslavia,0.0025071418
+cat__country of birth mother_Poland,0.0024981287
+cat__live in this house 1 year ago_Not in universe under 1 year old,0.0024974013
+cat__major industry code_Manufacturing-nondurable goods,0.0024922118
+cat__region of previous residence_Not in universe,0.0024918457
+cat__major occupation code_Executive admin and managerial,0.0024585207
+cat__education_Associates degree-academic program,0.0024491707
+cat__tax filer stat_Joint both 65+,0.0024367974
+cat__major industry code_Other professional services,0.0024351364
+cat__country of birth mother_Japan,0.002433674
+cat__race_White,0.0024301016
+cat__country of birth mother_El-Salvador,0.0024162945
+cat__education_5th or 6th grade,0.0024154615
+cat__state of previous residence_Missouri,0.00241388
+cat__country of birth mother_France,0.0023868822
+cat__country of birth self_England,0.0023807255
+cat__country of birth father_Vietnam,0.0023654674
+cat__migration code-change in reg_Different county same state,0.0023647782
+cat__major industry code_Communications,0.0023602315
+cat__major industry code_Transportation,0.0023582182
+cat__country of birth mother_Ireland,0.0023430495
+cat__country of birth self_Mexico,0.0023336925
+cat__country of birth self_Peru,0.0023281563
+cat__class of worker_Private,0.0023255055
+cat__country of birth father_France,0.0023151282
+cat__state of previous residence_Montana,0.0022919755
+cat__country of birth father_Canada,0.0022855331
+cat__country of birth mother_Portugal,0.002277756
+cat__state of previous residence_Virginia,0.0022721107
+cat__country of birth father_Italy,0.002259665
+cat__country of birth father_Japan,0.002256798
+cat__country of birth mother_Germany,0.002243608
+cat__full or part time employment stat_PT for econ reasons usually FT,0.002238024
+cat__country of birth father_Trinadad&Tobago,0.0022257187
+cat__major industry code_Medical except hospital,0.0022235801
+cat__full or part time employment stat_Unemployed full-time,0.0022105596
+cat__detailed household and family stat_Nonfamily householder,0.0021960037
+cat__hispanic origin_Puerto Rican,0.002184803
+cat__country of birth father_Mexico,0.0021846108
+cat__country of birth self_El-Salvador,0.0021840802
+cat__country of birth father_Thailand,0.002183823
+num__year,0.0021767844
+cat__country of birth mother_China,0.0021751558
+cat__migration code-move within reg_Different county same state,0.0021706487
+cat__migration code-change in reg_Different region,0.0021649434
+cat__citizenship_Foreign born- U S citizen by naturalization,0.0021621168
+cat__major occupation code_Sales,0.00215796
+cat__country of birth mother_?,0.00215525
+cat__country of birth self_China,0.002148887
+cat__region of previous residence_South,0.002142643
+cat__major occupation code_Machine operators assmblrs & inspctrs,0.0021400745
+cat__family members under 18_Not in universe,0.002133243
+cat__detailed household and family stat_Child 18+ never marr Not in a subfamily,0.0021319652
+cat__state of previous residence_Florida,0.0021309198
+cat__migration code-change in msa_NonMSA to nonMSA,0.0021165435
+cat__live in this house 1 year ago_No,0.0021125812
+cat__full or part time employment stat_Unemployed part- time,0.0021001461
+cat__major industry code_Hospital services,0.002094732
+cat__detailed household and family stat_Secondary individual,0.002085255
+cat__detailed household summary in household_Other relative of householder,0.002077118
+num__detailed industry recode,0.0020714777
+cat__state of previous residence_North Carolina,0.002060848
+cat__migration code-change in msa_MSA to MSA,0.0020413788
+cat__marital stat_Widowed,0.0020399988
+cat__major industry code_Construction,0.0020323722
+cat__marital stat_Divorced,0.0020312518
+cat__member of a labor union_Yes,0.0020141406
+cat__full or part time employment stat_Full-time schedules,0.002012557
+cat__detailed household and family stat_RP of unrelated subfamily,0.0020097326
+cat__country of birth self_Italy,0.0019956473
+cat__country of birth self_Germany,0.0019827369
+cat__hispanic origin_Mexican-American,0.0019826167
+cat__detailed household and family stat_Other Rel 18+ never marr not in subfamily,0.0019779277
+cat__family members under 18_Both parents present,0.0019677249
+cat__major occupation code_Technicians and related support,0.00196212
+cat__state of previous residence_Oklahoma,0.001959624
+cat__country of birth mother_Outlying-U S (Guam USVI etc),0.0019530987
+cat__migration code-change in msa_Nonmover,0.0019523035
+cat__country of birth father_Yugoslavia,0.0019318274
+cat__country of birth mother_Dominican-Republic,0.001920556
+cat__country of birth self_?,0.0019102902
+cat__country of birth father_Nicaragua,0.001908188
+cat__country of birth mother_Italy,0.0019035843
+cat__major occupation code_Adm support including clerical,0.0018995582
+cat__country of birth mother_Cambodia,0.0018816297
+cat__country of birth mother_Hong Kong,0.0018815325
+cat__major industry code_Business and repair services,0.0018813428
+cat__detailed household and family stat_Other Rel 18+ ever marr not in subfamily,0.0018791398
+cat__country of birth mother_Cuba,0.0018780117
+cat__citizenship_Foreign born- Not a citizen of U S ,0.0018754579
+cat__education_12th grade no diploma,0.0018720245
+cat__state of previous residence_New Hampshire,0.0018641577
+cat__state of previous residence_Arizona,0.0018620796
+cat__major industry code_Personal services except private HH,0.0018597182
+cat__country of birth father_El-Salvador,0.0018385709
+cat__reason for unemployment_Job loser - on layoff,0.0018373094
+cat__country of birth self_Japan,0.0018364714
+cat__marital stat_Married-spouse absent,0.0018324574
+cat__country of birth mother_Jamaica,0.0018305812
+cat__citizenship_Native- Born abroad of American Parent(s),0.0018293518
+cat__country of birth father_China,0.0018278088
+cat__country of birth father_Columbia,0.0018173285
+cat__state of previous residence_Mississippi,0.001816261
+cat__country of birth self_Hungary,0.0018077734
+cat__state of previous residence_Connecticut,0.0018023045
+cat__migration code-change in reg_Same county,0.0017924856
+cat__country of birth self_Vietnam,0.0017815318
+cat__hispanic origin_Chicano,0.0017784953
+cat__country of birth father_Hungary,0.0017778361
+cat__country of birth father_Scotland,0.0017650325
+cat__state of previous residence_Texas,0.0017650314
+cat__country of birth mother_Puerto-Rico,0.0017614671
+cat__race_Other,0.0017555337
+cat__migration prev res in sunbelt_No,0.0017498925
+cat__country of birth father_?,0.0017452766
+cat__race_Amer Indian Aleut or Eskimo,0.0017428835
+cat__major industry code_Private household services,0.0017408514
+cat__state of previous residence_Alaska,0.0017396043
+cat__reason for unemployment_Not in universe,0.001734805
+cat__country of birth mother_United-States,0.0017047379
+cat__country of birth mother_Peru,0.0016963923
+cat__country of birth father_Germany,0.0016838759
+cat__migration code-change in msa_NonMSA to MSA,0.0016735056
+cat__detailed household and family stat_Child 18+ ever marr RP of subfamily,0.0016610546
+cat__migration code-change in reg_Different state same division,0.0016479256
+cat__hispanic origin_Other Spanish,0.0016452831
+cat__enroll in edu inst last wk_College or university,0.0016380837
+cat__major industry code_Manufacturing-durable goods,0.0016337056
+cat__major industry code_Wholesale trade,0.0016317425
+cat__country of birth self_India,0.0016311149
+cat__country of birth father_India,0.0016184335
+cat__migration code-change in msa_MSA to nonMSA,0.0016124247
+cat__state of previous residence_Vermont,0.0016070621
+cat__country of birth father_Haiti,0.0015987012
+cat__state of previous residence_South Carolina,0.0015904503
+cat__country of birth father_Jamaica,0.0015880674
+cat__country of birth self_Cuba,0.0015866325
+cat__country of birth father_United-States,0.0015701602
+cat__member of a labor union_No,0.0015665914
+cat__country of birth father_Ecuador,0.0015610515
+cat__state of previous residence_Nevada,0.0015056545
+cat__race_Asian or Pacific Islander,0.0015055672
+num__veterans benefits,0.0015029724
+cat__full or part time employment stat_Not in labor force,0.0015024286
+cat__reason for unemployment_Re-entrant,0.0014956099
+cat__country of birth self_South Korea,0.0014880036
+cat__migration code-move within reg_Different state in Northeast,0.0014878071
+cat__region of previous residence_Northeast,0.001486058
+cat__country of birth mother_Greece,0.0014849701
+cat__detailed household and family stat_Grandchild 18+ ever marr not in subfamily,0.0014750699
+cat__country of birth father_Cambodia,0.0014647624
+cat__country of birth mother_Haiti,0.0014561749
+cat__state of previous residence_Abroad,0.0014526984
+cat__state of previous residence_Arkansas,0.0014446087
+cat__migration code-move within reg_Same county,0.001437256
+cat__hispanic origin_Central or South American,0.0014111872
+cat__country of birth self_Haiti,0.0013919114
+cat__country of birth mother_Thailand,0.0013765626
+cat__migration code-change in reg_Nonmover,0.0013761581
+cat__state of previous residence_Oregon,0.0013731009
+cat__country of birth mother_Columbia,0.0013689646
+cat__country of birth mother_Taiwan,0.0013686296
+cat__state of previous residence_Georgia,0.0013677789
+cat__state of previous residence_Kansas,0.001355933
+cat__migration code-move within reg_Different state in West,0.0013514495
+cat__detailed household and family stat_Other Rel 18+ ever marr RP of subfamily,0.0013513917
+cat__region of previous residence_Abroad,0.0013376748
+cat__country of birth self_Puerto-Rico,0.0013265628
+cat__class of worker_Not in universe,0.0013260886
+cat__country of birth self_Jamaica,0.0013123873
+cat__country of birth father_South Korea,0.0012958808
+cat__country of birth self_France,0.001287111
+cat__country of birth father_Taiwan,0.0012703835
+cat__citizenship_Native- Born in Puerto Rico or U S Outlying,0.0012679606
+cat__enroll in edu inst last wk_Not in universe,0.0012658808
+cat__migration code-change in reg_Different division same region,0.0012630951
+cat__state of previous residence_Indiana,0.0012414881
+cat__education_1st 2nd 3rd or 4th grade,0.0012414284
+cat__country of birth father_Guatemala,0.0012305197
+cat__marital stat_Married-A F spouse present,0.0011977854
+cat__country of birth mother_Ecuador,0.0011850162
+cat__country of birth father_Outlying-U S (Guam USVI etc),0.0011647476
+cat__migration code-move within reg_Nonmover,0.0011026455
+cat__country of birth father_Puerto-Rico,0.0010920928
+cat__state of previous residence_North Dakota,0.0010779476
+cat__state of previous residence_Not in universe,0.0010598563
+cat__major occupation code_Farming forestry and fishing,0.0010595788
+cat__state of previous residence_Pennsylvania,0.0010251978
+cat__state of previous residence_South Dakota,0.0009875295
+cat__state of previous residence_Wisconsin,0.0009853335
+cat__education_Less than 1st grade,0.0009834355
+cat__country of birth self_Thailand,0.00094964524
+cat__migration code-change in msa_Abroad to MSA,0.00092645234
+cat__migration code-change in msa_?,0.00090653455
+cat__class of worker_Without pay,0.00089350814
+cat__major occupation code_Private household services,0.00084089313
+cat__hispanic origin_Do not know,0.00075419294
+cat__migration prev res in sunbelt_Not in universe,0.0006851931
+cat__country of birth self_Taiwan,0.0006686402
+cat__class of worker_Never worked,0.00064096047
+cat__state of previous residence_Tennessee,0.0006290305
+cat__state of previous residence_Kentucky,0.000604277
+cat__country of birth mother_Honduras,0.00058015744
+cat__state of previous residence_Illinois,0.00056110206
+cat__country of birth self_Yugoslavia,0.0005246367
+cat__reason for unemployment_New entrant,0.00041241638
+cat__state of previous residence_Nebraska,0.00010171499
+cat__detailed household and family stat_Child <18 never marr not in subfamily,4.802628e-05
+cat__country of birth father_Laos,3.1898426e-06
+cat__country of birth mother_Laos,1.5199474e-07
+cat__state of previous residence_Maryland,0.0
+cat__country of birth father_Panama,0.0
+cat__migration prev res in sunbelt_?,0.0
+cat__country of birth self_Holand-Netherlands,0.0
+cat__major occupation code_Armed Forces,0.0
+cat__country of birth self_Honduras,0.0
+cat__detailed household and family stat_Child <18 ever marr RP of subfamily,0.0
+cat__major industry code_Armed Forces,0.0
+cat__family members under 18_Mother only present,0.0
+cat__state of previous residence_Delaware,0.0
+cat__major industry code_Not in universe or children,0.0
+cat__family members under 18_Father only present,0.0
+cat__country of birth self_Greece,0.0
+cat__major occupation code_Not in universe,0.0
+cat__country of birth self_Laos,0.0
+cat__state of previous residence_Ohio,0.0
+cat__education_Children,0.0
+cat__country of birth self_Nicaragua,0.0
+cat__country of birth self_Trinadad&Tobago,0.0
+cat__country of birth self_Outlying-U S (Guam USVI etc),0.0
+cat__country of birth self_Panama,0.0
+cat__country of birth self_Guatemala,0.0
+cat__migration code-move within reg_?,0.0
+cat__detailed household and family stat_Child <18 ever marr not in subfamily,0.0
+cat__detailed household summary in household_Child under 18 ever married,0.0
+cat__detailed household and family stat_Other Rel <18 ever marr RP of subfamily,0.0
+cat__country of birth mother_Panama,0.0
+cat__detailed household and family stat_Other Rel <18 never marr child of subfamily RP,0.0
+cat__country of birth mother_Nicaragua,0.0
+cat__detailed household and family stat_Other Rel <18 never marr not in subfamily,0.0
+cat__detailed household and family stat_Other Rel <18 never married RP of subfamily,0.0
+cat__detailed household and family stat_Other Rel <18 spouse of subfamily RP,0.0
+cat__detailed household summary in household_Child under 18 never married,0.0
+cat__live in this house 1 year ago_Yes,0.0
+cat__detailed household summary in household_Group Quarters- Secondary individual,0.0
+cat__country of birth mother_Guatemala,0.0
+cat__migration code-change in msa_Abroad to nonMSA,0.0
+cat__migration code-change in msa_Not in universe,0.0
+cat__migration code-change in reg_?,0.0
+cat__migration code-change in reg_Abroad,0.0
+cat__migration code-move within reg_Abroad,0.0
+cat__detailed household and family stat_Other Rel 18+ never marr RP of subfamily,0.0
+cat__migration code-move within reg_Not in universe,0.0
+cat__detailed household and family stat_In group quarters,0.0
+cat__detailed household and family stat_Grandchild <18 never marr not in subfamily,0.0
+cat__detailed household and family stat_Child <18 never marr RP of subfamily,0.0
+cat__country of birth self_Ecuador,0.0
+cat__detailed household and family stat_Child <18 spouse of subfamily RP,0.0
+cat__migration code-change in reg_Not in universe,0.0
+cat__country of birth self_Columbia,0.0
+cat__detailed household and family stat_Grandchild 18+ ever marr RP of subfamily,0.0
+cat__detailed household and family stat_Grandchild 18+ never marr RP of subfamily,0.0
+cat__country of birth self_Cambodia,0.0
+cat__detailed household and family stat_Grandchild 18+ spouse of subfamily RP,0.0
+cat__detailed household and family stat_Grandchild <18 ever marr not in subfamily,0.0
+cat__country of birth mother_Vietnam,0.0
+cat__detailed household and family stat_Grandchild <18 never marr RP of subfamily,0.0
+cat__family members under 18_Neither parent present,0.0
+cat__country of birth father_Honduras,0.0
+cat__detailed household and family stat_Grandchild <18 never marr child of subfamily RP,0.0
+cat__detailed household and family stat_Child under 18 of RP of unrel subfamily,0.0

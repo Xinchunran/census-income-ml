@@ -1,0 +1,11 @@
+{
+  "allow_writing_files": false,
+  "depth": 8,
+  "eval_metric": "AUC",
+  "iterations": 300,
+  "l2_leaf_reg": 6.0,
+  "learning_rate": 0.05,
+  "loss_function": "Logloss",
+  "random_seed": 42,
+  "verbose": false
+}

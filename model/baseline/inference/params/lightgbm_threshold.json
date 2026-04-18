@@ -1,0 +1,4 @@
+{
+  "threshold": 0.38,
+  "selection_metric": "weighted_f1_on_valid"
+}

@@ -1,0 +1,89 @@
+{
+  "best_k_result": {
+    "calinski_harabasz": 4494.410426143157,
+    "davies_bouldin": 1.135456669187272,
+    "k": 7,
+    "min_cluster_share_row": 0.019555102620433872,
+    "score": 1.6862704230878212,
+    "silhouette": 0.3769052874709436
+  },
+  "cluster_size_distribution": {
+    "0": 31296,
+    "1": 31305,
+    "2": 25490,
+    "3": 2341,
+    "4": 8536,
+    "5": 4453,
+    "6": 16292
+  },
+  "k_grid_results": [
+    {
+      "calinski_harabasz": 4805.733804919328,
+      "davies_bouldin": 1.3994591121926143,
+      "k": 3,
+      "min_cluster_share_row": 0.24964707258192512,
+      "score": 1.567325281623826,
+      "silhouette": 0.30278738067503314
+    },
+    {
+      "calinski_harabasz": 4915.669609905408,
+      "davies_bouldin": 1.358212637894715,
+      "k": 4,
+      "min_cluster_share_row": 0.09174442207613208,
+      "score": 1.6160748153662023,
+      "silhouette": 0.3419861774952885
+    },
+    {
+      "calinski_harabasz": 4601.656532009729,
+      "davies_bouldin": 1.278118285560034,
+      "k": 5,
+      "min_cluster_share_row": 0.03719729686834346,
+      "score": 1.6406880198220515,
+      "silhouette": 0.3582903577865338
+    },
+    {
+      "calinski_harabasz": 4058.410345351753,
+      "davies_bouldin": 1.8630943382486,
+      "k": 6,
+      "min_cluster_share_row": 0.03719729686834346,
+      "score": 1.4767789744804163,
+      "silhouette": 0.29662721474337483
+    },
+    {
+      "calinski_harabasz": 4494.410426143157,
+      "davies_bouldin": 1.135456669187272,
+      "k": 7,
+      "min_cluster_share_row": 0.019555102620433872,
+      "score": 1.6862704230878212,
+      "silhouette": 0.3769052874709436
+    },
+    {
+      "calinski_harabasz": 3842.2206214375105,
+      "davies_bouldin": 1.5809657479350552,
+      "k": 8,
+      "min_cluster_share_row": 0.019555102620433872,
+      "score": 1.5240212160291655,
+      "silhouette": 0.311162748381628
+    }
+  ],
+  "n_clusters": 7,
+  "scheme_name": "v2_score_augmented_classifier_informed",
+  "scheme_type": "classifier_informed_score_augmented",
+  "score_column_used": "income_score",
+  "score_source_path": "segment/baseline_informed_results/score_table.csv",
+  "split_sizes": {
+    "test": 39905,
+    "train": 119713,
+    "valid": 39905
+  },
+  "stability_pairwise_agreement": 0.9011821214142762,
+  "weighted_income_rate_by_segment": {
+    "0": 0.028619238883957173,
+    "1": 0.0,
+    "2": 0.006931941583048482,
+    "3": 0.30242456439667104,
+    "4": 0.5028611188377479,
+    "5": 0.3308301631298768,
+    "6": 0.0017969753525944976
+  }
+}

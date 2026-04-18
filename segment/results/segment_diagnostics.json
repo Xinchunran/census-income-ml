@@ -1,0 +1,83 @@
+{
+  "best_k_result": {
+    "calinski_harabasz": 5334.237996061953,
+    "davies_bouldin": 1.0695762040402925,
+    "k": 5,
+    "min_cluster_share_row": 0.03697175745324234,
+    "score": 1.7219892030456334,
+    "silhouette": 0.38058961353095655
+  },
+  "cluster_size_distribution": {
+    "0": 32376,
+    "1": 33523,
+    "2": 2372,
+    "3": 24324,
+    "4": 27118
+  },
+  "k_grid_results": [
+    {
+      "calinski_harabasz": 5653.528651172576,
+      "davies_bouldin": 1.346450527104558,
+      "k": 3,
+      "min_cluster_share_row": 0.23837845513853967,
+      "score": 1.6248362229984905,
+      "silhouette": 0.33463940306137396
+    },
+    {
+      "calinski_harabasz": 5220.371242596179,
+      "davies_bouldin": 1.2098879008299892,
+      "k": 4,
+      "min_cluster_share_row": 0.03697175745324234,
+      "score": 1.667533523740535,
+      "silhouette": 0.3589703492821781
+    },
+    {
+      "calinski_harabasz": 5334.237996061953,
+      "davies_bouldin": 1.0695762040402925,
+      "k": 5,
+      "min_cluster_share_row": 0.03697175745324234,
+      "score": 1.7219892030456334,
+      "silhouette": 0.38058961353095655
+    },
+    {
+      "calinski_harabasz": 4705.152086639795,
+      "davies_bouldin": 1.6622767704782941,
+      "k": 6,
+      "min_cluster_share_row": 0.019814055282216636,
+      "score": 1.5254933705586784,
+      "silhouette": 0.30421243484056565
+    },
+    {
+      "calinski_harabasz": 4837.130305751741,
+      "davies_bouldin": 1.36990961567125,
+      "k": 7,
+      "min_cluster_share_row": 0.03697175745324234,
+      "score": 1.614329602219219,
+      "silhouette": 0.3439442193773162
+    },
+    {
+      "calinski_harabasz": 4228.780307698194,
+      "davies_bouldin": 1.6471793341755967,
+      "k": 8,
+      "min_cluster_share_row": 0.019814055282216636,
+      "score": 1.506358383392808,
+      "silhouette": 0.2936072702376821
+    }
+  ],
+  "n_clusters": 5,
+  "scheme_name": "v1_raw_feature_unsupervised",
+  "scheme_type": "raw_feature_unsupervised",
+  "split_sizes": {
+    "test": 39905,
+    "train": 119713,
+    "valid": 39905
+  },
+  "stability_pairwise_agreement": 0.8907591727818546,
+  "weighted_income_rate_by_segment": {
+    "0": 0.0,
+    "1": 0.03336466177005784,
+    "2": 0.30242456439667104,
+    "3": 0.22283790488949062,
+    "4": 0.014006396306346251
+  }
+}

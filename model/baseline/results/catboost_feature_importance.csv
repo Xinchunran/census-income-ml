@@ -1,0 +1,42 @@
+Feature Id,Importances
+family members under 18,31.51412329798167
+veterans benefits,8.034996649045821
+weeks worked in year,7.967998336976407
+major occupation code,5.414222774718384
+education,4.976607646112621
+sex,4.68502179054334
+age,4.584405955038816
+detailed household summary in household,4.086706354229317
+class of worker,3.8519645537913165
+tax filer stat,2.907881750468414
+member of a labor union,2.525372191482475
+dividends from stocks,1.8985886796749276
+marital stat,1.7175647320507432
+enroll in edu inst last wk,1.5367887286708868
+capital gains,1.5197567775601597
+num persons worked for employer,1.3117055839253287
+detailed industry recode,1.2881834695681837
+major industry code,1.1205883183562968
+migration code-move within reg,1.045457718852818
+country of birth mother,0.9822515546851616
+fill inc questionnaire for veteran's admin,0.7190240021526726
+reason for unemployment,0.5537145854074932
+region of previous residence,0.5349023522458133
+race,0.5323802425544016
+detailed household and family stat,0.5191367294428424
+detailed occupation recode,0.4848748987677698
+state of previous residence,0.4801168199106308
+capital losses,0.4190471251094161
+migration code-change in reg,0.41556886569999757
+year,0.36864020645291584
+hispanic origin,0.326659584229719
+migration prev res in sunbelt,0.3243401942695519
+live in this house 1 year ago,0.3058751320622191
+country of birth self,0.23233960207858986
+citizenship,0.20973226435037126
+migration code-change in msa,0.20861489119169815
+full or part time employment stat,0.12514807269269757
+wage per hour,0.10547777168853935
+_row_id,0.06651774822804073
+own business or self employed,0.0602787493377984
+country of birth father,0.03742329839361387

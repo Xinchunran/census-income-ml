@@ -1,0 +1,34 @@
+{
+  "model_name": "ft_transformer",
+  "model_params": {
+    "attention_dropout": 0.1,
+    "d_token": 32,
+    "ffn_dropout": 0.1,
+    "head_dropout": 0.1,
+    "head_hidden_dim": 32,
+    "n_blocks": 2,
+    "n_heads": 4,
+    "residual_dropout": 0.0
+  },
+  "training_params": {
+    "batch_size": 2048,
+    "device": "cuda",
+    "gpu_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "grad_clip_norm": 1.0,
+    "lr": 0.001,
+    "max_epochs": 20,
+    "max_eval_rows": 0,
+    "max_train_rows": 0,
+    "max_valid_rows": 0,
+    "num_workers": 0,
+    "patience": 3,
+    "use_data_parallel": true,
+    "verbose": true,
+    "weight_decay": 1e-05
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": "ft_transformer",
+  "pr_auc": 0.5776050678675976,
+  "roc_auc": 0.9412778694181219,
+  "weighted_log_loss": 0.3114699948799834
+}

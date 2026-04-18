@@ -1,0 +1,21 @@
+{
+  "best_threshold_on_valid": {
+    "f1": 0.5585713266682232,
+    "precision": 0.5043657883328007,
+    "recall": 0.6258310624200105,
+    "threshold": 0.82
+  },
+  "dataset_consistency": {
+    "rows": 199523,
+    "same_columns": true,
+    "same_shape": true,
+    "split_sizes": {
+      "test": 39905,
+      "train": 119713,
+      "valid": 39905
+    }
+  },
+  "model": "ft_transformer",
+  "selection_metric": "weighted_f1",
+  "selection_source": "weighted_f1_on_valid"
+}
